@@ -1,6 +1,6 @@
 BridgeLabz Practice
 
-This repository contains my practice work and projects completed during the BridgeLabz Maker Plan fellowship training program.
+This repository contains my practice during the BridgeLabz Maker Plan fellowship training program.
 
 Folder Structure
 
